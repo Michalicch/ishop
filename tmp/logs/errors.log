@@ -1,0 +1,158 @@
+[2023-06-25 23:51:19] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:51:19] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:52:44] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:54:52] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 14
+=================
+[2023-06-25 23:56:08] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 14
+=================
+[2023-06-25 23:56:32] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:56:34] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:56:34] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:56:34] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:56:34] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:56:35] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:56:36] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:56:36] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-06-25 23:56:57] Текст ошибки: Возникла ошибочка! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\public\index.php | Строка: 13
+=================
+[2023-07-01 19:24:23] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 28
+=================
+[2023-07-01 19:35:42] Текст ошибки: Контроллер app\controllers\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 31
+=================
+[2023-07-01 19:36:56] Текст ошибки: Контроллер app\controllers\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 31
+=================
+[2023-07-01 19:37:42] Текст ошибки: Контроллер app\controllers\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 32
+=================
+[2023-07-01 19:37:44] Текст ошибки: Контроллер app\controllers\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 32
+=================
+[2023-07-01 19:40:53] Текст ошибки: Контроллер app\controllers\MainController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 37
+=================
+[2023-07-01 19:42:14] Текст ошибки: Метод app\controllers\MainController::indexAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 34
+=================
+[2023-07-01 19:42:15] Текст ошибки: Метод app\controllers\MainController::indexAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 34
+=================
+[2023-07-01 20:10:47] Текст ошибки: Контроллер app\controllers\PageController не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 37
+=================
+[2023-07-01 20:11:29] Текст ошибки: Метод app\controllers\PageController::viewAction не найден! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 34
+=================
+[2023-07-01 20:16:10] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 40
+=================
+[2023-07-01 20:18:28] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 40
+=================
+[2023-07-01 20:29:54] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 41
+=================
+[2023-07-01 20:30:55] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 41
+=================
+[2023-07-03 21:51:45] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 56
+=================
+[2023-07-03 22:54:50] Текст ошибки: Typed property wfm\Controller::$model must not be accessed before initialization | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\controllers\MainController.php | Строка: 11
+=================
+[2023-07-03 23:15:30] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 43
+=================
+[2023-07-03 23:17:19] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 43
+=================
+[2023-07-03 23:17:20] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 43
+=================
+[2023-07-03 23:17:30] Текст ошибки: Call to undefined method app\controllers\admin\MainController::getModel() | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 43
+=================
+[2023-07-03 23:28:14] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\ishop/app/view/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 31
+=================
+[2023-07-03 23:28:54] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\ishop/app/view/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 31
+=================
+[2023-07-03 23:30:55] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\ishop/app/view/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 31
+=================
+[2023-07-03 23:30:56] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\ishop/app/view/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 31
+=================
+[2023-07-03 23:30:56] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\ishop/app/view/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 31
+=================
+[2023-07-03 23:30:57] Текст ошибки: Не найден вид: F:\0_SERVER\OSPanel_543\domains\ishop/app/view/Main/index.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 31
+=================
+[2023-07-03 23:39:21] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\ishop/app/views/layouts/ishop.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 41
+=================
+[2023-07-03 23:40:23] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\ishop/app/views/layouts/test.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 41
+=================
+[2023-07-05 22:15:18] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 57
+=================
+[2023-07-05 22:19:04] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\ishop/app/views/layouts/test.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 41
+=================
+[2023-07-05 22:19:07] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\ishop/app/views/layouts/test.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 41
+=================
+[2023-07-05 22:40:12] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\ishop/app/views/layouts/test.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 41
+=================
+[2023-07-05 23:28:50] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\ishop/app/views/layouts/test2.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 41
+=================
+[2023-07-05 23:29:16] Текст ошибки: Не найден шаблон F:\0_SERVER\OSPanel_543\domains\ishop/app/views/layouts/ishop.php | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 41
+=================
+[2023-07-08 18:00:15] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 57
+=================
+[2023-07-08 18:00:31] Текст ошибки: Undefined array key "discription" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 52
+=================
+[2023-07-08 18:02:03] Текст ошибки: wfm\View::getMeta(): Return value must be of type array, string returned | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 54
+=================
+[2023-07-08 18:02:04] Текст ошибки: wfm\View::getMeta(): Return value must be of type array, string returned | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\View.php | Строка: 54
+=================
+[2023-07-08 18:14:39] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:21:00] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:21:23] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:21:24] Текст ошибки: Undefined variable $test | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:21:42] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:04] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:05] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:05] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:06] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:06] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:06] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:18] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:18] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:19] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:19] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 18:22:19] Текст ошибки: syntax error, unexpected token ";" | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\app\views\Main\index.php | Строка: 3
+=================
+[2023-07-08 19:11:43] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 57
+=================
+[2023-07-08 19:12:38] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 57
+=================
+[2023-07-08 23:36:40] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 57
+=================
+[2023-07-08 23:36:40] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 57
+=================
+[2023-07-08 23:55:07] Текст ошибки: Нет  подключения к базе данных DB | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Db.php | Строка: 17
+=================
+[2023-07-08 23:55:33] Текст ошибки: Нет  подключения к базе данных DB | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Db.php | Строка: 17
+=================
+[2023-07-08 23:57:01] Текст ошибки: Нет  подключения к базе данных DB | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Db.php | Строка: 17
+=================
+[2023-07-08 23:57:32] Текст ошибки: Нет  подключения к базе данных DB | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Db.php | Строка: 21
+=================
+[2023-07-08 23:57:50] Текст ошибки: Нет  подключения к базе данных DB | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Db.php | Строка: 22
+=================
+[2023-07-08 23:58:21] Текст ошибки: Нет  подключения к базе данных DB | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Db.php | Строка: 19
+=================
+[2023-07-09 19:24:07] Текст ошибки: Страница не найдена! | Файл: F:\0_SERVER\OSPanel_543\domains\ishop\vendor\wfm\Router.php | Строка: 57
+=================
