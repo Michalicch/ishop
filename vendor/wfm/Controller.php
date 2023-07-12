@@ -5,7 +5,7 @@ namespace wfm;
 abstract class Controller
 {
     public array $data = []; //сюда мы будем загружать данные из модели и передавать их в ВИД.
-    public array $meta = [];
+    public array $meta = ['title' => '', 'keywords' => '', 'description' => ''];
     public false|string $layout = '';
     public string $view = '';
     public object $model;
